@@ -9,6 +9,7 @@ const squareIt = require('./middleware/squareIt.js');
 const router = require('./routes/routes.js');
 
 
+
 const app = express();
 const PORT = process.env.PORT || 8080;
 
