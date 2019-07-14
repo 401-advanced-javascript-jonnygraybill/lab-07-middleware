@@ -43,4 +43,4 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-<img src=https://github.com/401-advanced-javascript-jonnygraybill/lab-07-middleware/blob/master/assets/lab-07-uml.jpg width="150" height="100" />
+<img src=https://github.com/401-advanced-javascript-jonnygraybill/lab-07-middleware/blob/master/assets/lab-07-uml.jpg width="500" height="500" />
