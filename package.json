@@ -2,14 +2,24 @@
   "name": "test-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "dependencies": {},
+  "devDependencies": {
+    "app": "^0.1.0",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jonnygraybill/lab-07-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jonnygraybill/lab-07-middleware/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jonnygraybill/lab-07-middleware#readme"
 }
