@@ -43,4 +43,4 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-![alt text](https://github.com/401-advanced-javascript-jonnygraybill/lab-07-middleware/blob/master/assets/lab-07-uml.jpg  = 250x250)
+<img src="kitten.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
